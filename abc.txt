@@ -1,2 +1,3 @@
 My name is harshit
 Abhinay is teaching me git
+He has finished teaching me the basics. 
